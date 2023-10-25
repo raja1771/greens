@@ -34,4 +34,6 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+Adl-Anna nagar
+Git Day 1
